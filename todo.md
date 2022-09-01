@@ -15,4 +15,6 @@ Answer: Login to GitHub and do it.
 
 - [x] Stage and commit your local changes.
 
-Answer: 
+Answer: 'git add '<filename>', 'git commit -m '<message>' in terminal.
+
+- [ ] Push your commit to your remote repository.
