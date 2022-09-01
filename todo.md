@@ -14,3 +14,5 @@ Answer: Go to explorer menu and click 'New File' and create 'index.html'. Then f
 Answer: Login to GitHub and do it.
 
 - [x] Stage and commit your local changes.
+
+Answer: 
